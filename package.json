@@ -1,0 +1,16 @@
+{
+  "name": "aws-secret-manager-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "braces": "^3.0.3",
+    "micromatch": "^4.0.6",
+    "specific": "^0.0.8"
+  }
+}
